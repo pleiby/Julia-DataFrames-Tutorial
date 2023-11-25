@@ -1,6 +1,9 @@
 # An Introduction to DataFrames.jl
 
-[Bogumił Kamiński](http://bogumilkaminski.pl/about/), February 13, 2023
+Cloned from git@github.com:bkamins/Julia-DataFrames-Tutorial.git
+
+Originally from [Bogumił Kamiński](http://bogumilkaminski.pl/about/), February 13, 2023.
+Minor edits by [Paul Leiby](https://github.com/pleiby)
 
 **The tutorial is for DataFrames.jl 1.5.0**
 
